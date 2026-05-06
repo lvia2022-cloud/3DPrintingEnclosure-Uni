@@ -1,5 +1,11 @@
 header {
   text-align: center;
+  background-color: #1a2025;
+  padding: 10px;
+}
+
+header h1 {
+  color: #FFD700;
 }
 
 body {
@@ -7,6 +13,6 @@ body {
   color: white;
 }
 
-p {
+a {
   color: white;
 }
