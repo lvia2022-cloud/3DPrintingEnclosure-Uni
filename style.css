@@ -3,12 +3,13 @@ header {
   background-color: #2a3439;
 }
 
-header h1, header h2, header h3 {
+h1 {
   color: #FFD700;
 }
 
 body {
   background-color: #2a3439;
+  color: white;
 }
 
 p, li, h2, h3 {
