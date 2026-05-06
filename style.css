@@ -1,5 +1,11 @@
 header {
   text-align: center;
-  background-color: #0a0a7d;
-  text-color: #ffffff;
+  text-color: #FFD700;
+}
+body {
+  background-color: #2a3439;
+}
+p {
+  font-size: 20px;
+  color: white;
 }
