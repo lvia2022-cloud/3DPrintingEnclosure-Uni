@@ -1,11 +1,16 @@
 header {
   text-align: center;
-  text-color: #FFD700;
+  background-color: #2a3439;
 }
+
+header h1, header h2, header h3 {
+  color: #FFD700;
+}
+
 body {
   background-color: #2a3439;
 }
-p {
-  font-size: 20px;
+
+p, li, h2, h3 {
   color: white;
 }
